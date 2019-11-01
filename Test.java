@@ -6,7 +6,8 @@ public class Test {
 	{
 	 String a= "mohan";
 	 int b=10;
-	 System.out.println(a+" "+b);
+	 int c=30;
+	 System.out.println(a+" "+b+c);
 
 	}
 
